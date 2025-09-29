@@ -8,7 +8,7 @@ import ProductList from './Pages/ProductList';
 import Register from './Pages/Register';
 import Wishlist from './Pages/wishlist';
 import Orders from './Pages/order';
-import ScrollToTop from "./components/Scroll";
+import ScrollToTop from "./components/scroll";
 
 
 
